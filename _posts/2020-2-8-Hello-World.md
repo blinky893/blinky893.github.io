@@ -1,9 +1,19 @@
 ---
 layout: post
-title: Starting a blog with github + jekyll
+title: On the looming sense of inadequacy at starting a blog
 ---
 
-I don't pretend to understand what I'm doing but I am enjoying doing it.
+I'm not sure I've got anything interesting to write.
+
+I think that's partly because I think when I think of writing a blog, I compare myself to those blogs with archives going back years and are full of categorised content and comments.
+
+But what if the blog didn't have to be that?
+
+What if ...?
+
+- it was something much smaller?
+- it was a fixed time/post experiment, rather than being something rivalling wikipedia?
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
