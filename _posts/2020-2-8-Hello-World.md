@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starting a blog with guthub + jekyll
+title: Starting a blog with github + jekyll
 ---
 
 I don't pretend to understand what I'm doing but I am enjoying doing it.
